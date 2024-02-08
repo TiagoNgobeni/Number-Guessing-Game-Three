@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\obj\Debug\net7.0\GuessingGameThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\obj\Debug\net7.0\GuessingGameThree.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\obj\Debug\net7.0\GuessingGameThree.AssemblyInfo.cs
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\obj\Debug\net7.0\GuessingGameThree.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\bin\Debug\net7.0\GuessingGameThree.exe
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\bin\Debug\net7.0\GuessingGameThree.deps.json
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\bin\Debug\net7.0\GuessingGameThree.runtimeconfig.json
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\bin\Debug\net7.0\GuessingGameThree.dll
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\bin\Debug\net7.0\GuessingGameThree.pdb
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\obj\Debug\net7.0\GuessingGameThree.dll
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\obj\Debug\net7.0\refint\GuessingGameThree.dll
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\obj\Debug\net7.0\GuessingGameThree.pdb
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\obj\Debug\net7.0\GuessingGameThree.genruntimeconfig.cache
+C:\Users\user\source\repos\SchoolExercises\GuessingGameThree\GuessingGameThree\obj\Debug\net7.0\ref\GuessingGameThree.dll
